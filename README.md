@@ -2,21 +2,21 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/paulkim1215/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/paul.kim6450/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-d0dcf2?style=for-the-badge&logo=tableau&logoColor=ff9006" alt="Tableau Badge"/>
   </a>
   <a href="https://medium.com/@pmkim">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  <a href="https://public.tableau.com/app/profile/paul.kim6450/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-d0dcf2?style=for-the-badge&logo=tableau&logoColor=ff9006" alt="Tableau Badge"/>
+  </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" align="center" alt=""/>
 
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
