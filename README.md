@@ -12,9 +12,9 @@
   <a href="https://public.tableau.com/app/profile/paul.kim6450/vizzes">
     <img src="https://img.shields.io/badge/Tableau-d0dcf2?style=for-the-badge&logo=tableau&logoColor=ff9006" alt="Tableau Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <h1 align="center">
   hey there
