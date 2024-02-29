@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Tableau-d0dcf2?style=for-the-badge&logo=tableau&logoColor=ff9006" alt="Tableau Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=pkim08&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=pkim08&style=flat-square&color=blue" alt=""/>
 
 <h1 align="center">
   hey there
