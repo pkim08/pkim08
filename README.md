@@ -11,14 +11,13 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=pkim08&style=flat-square&color=blue" alt=""/>
 </p>
   
-<h1 align="center">
-  hey there
+<h1>
+  Hi I'm Paul
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVoYXdqN3liZ29zcjEybTBpazR0aTQwNzl5dDk1ZmxpcDJhYzQxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="600" height="300"/>
-</div>
+<p>
+  Welcome to my profile! I'm a Data Scientist aiming to apply my skills in the real world. I'll be recording my journey through the amazing field of data and taking a jab at blog posting on Medium (keep an eye out 😁). Thanks for stopping by and I'd love to connect!
+</p>
 
 ---
 
@@ -58,6 +57,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original-wordmark.svg" title="plt" alt="plt" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
   
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVoYXdqN3liZ29zcjEybTBpazR0aTQwNzl5dDk1ZmxpcDJhYzQxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
