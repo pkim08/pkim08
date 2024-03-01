@@ -3,15 +3,9 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/paulkim1215/">
-    ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=black)
-  </a>
-  <a href="https://medium.com/@pmkim">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/paul.kim6450/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-d0dcf2?style=for-the-badge&logo=tableau&logoColor=ff9006" alt="Tableau Badge"/>
-  </a>
+
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulkim1215/) [![Medium Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&labelColor=black)](https://medium.com/@pmkim) [![Tableau Badge](https://img.shields.io/badge/Tableau-142a57?style=for-the-badge&logo=tableau&logoColor=ff9006)](https://public.tableau.com/app/profile/paul.kim6450/vizzes)
+  
 </div>
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=pkim08&style=flat-square&color=blue" alt=""/>
@@ -30,7 +24,7 @@
 
 ### 👨🏻‍💻 About Me:
 
-💻 I am a Data Scientist <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRkczhjMHdxM25jY2VmanF2cXZibWtiNXl5eWxmZW00c2lpNGxqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GItETHU5FvY9pPqScS/giphy.gif" width="30"> from New York 🗽.
+💻 I am a Data Scientist from New York 🗽. 
 
 - ⚒️ Continuously honing my data tools: `Python` `SQL` `AWS` `Zsh/Bash` `Tableau`
 
