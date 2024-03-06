@@ -31,7 +31,7 @@
 
 - 🌱 Exploring the blogging world on [Medium](https://medium.com/@pmkim)
 
-- ⚡ I enjoy volleyball, drawing, hiking, and VFX :)
+- ⚡ I enjoy cooking, sports, hiking, and VFX :)
 
 - 👨🏻‍🎓 Master's in Data Science
 
