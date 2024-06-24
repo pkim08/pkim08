@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p>
-  Welcome to my profile! I'm a Data Scientist aiming to apply my skills in the real world. I'll be recording my journey through the amazing field of data and taking a jab at blog posting on Medium (keep an eye out 😁). Thanks for stopping by and I'd love to connect!
+  Welcome to my profile! I'm a Data Scientist aiming to apply my skills in the real world. Thanks for stopping by and I'd love to connect!
 </p>
 
 ---
@@ -25,11 +25,9 @@
 
 💻 I am a Data Scientist from New York 🗽. 
 
-- ⚒️ Continuously honing my data tools: `Python` `SQL` `AWS` `Zsh/Bash` `Tableau`
+- ⚒️ Continuously honing my tools: `Python` `SQL` `AWS` `Zsh/Bash` `Tableau`
 
 - ☁️ I’m learning cloud computing with AWS
-
-- 🌱 Exploring the blogging world on [Medium](https://medium.com/@pmkim)
 
 - ⚡ I enjoy cooking, sports, hiking, and VFX :)
 
