@@ -23,7 +23,7 @@
 
 ### 👨🏻‍💻 About Me:
 
-💻 I am a Data Scientist from New York 🗽. 
+💻 I am a Data Scientist/Software Dev. from New York 🗽. 
 
 - ⚒️ Continuously honing my tools: `Python` `SQL` `AWS` `Zsh/Bash` `Tableau`
 
